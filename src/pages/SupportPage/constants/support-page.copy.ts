@@ -1,6 +1,6 @@
 /** Copy aligned with Ralnexo Privacy Policy (May 19, 2026). */
 export const PRIVACY_POLICY_URL =
-  'https://www.termsfeed.com/live/7935e4f1-24d2-410e-ac46-1fd55a77956c';
+  'https://docs.google.com/document/d/1dzLmWWVB_QP7uY9yznSUI9-ZZKZA1jjs3t8RI9mGW_4/edit?tab=t.0';
 
 export const SUPPORT_SITE_URL = 'https://ralnexo-a11y.github.io/ralnexo-support/';
 
