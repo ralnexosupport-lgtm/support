@@ -3,7 +3,8 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig(({ command }) => ({
-  base: command === 'build' ? '/ralnexo-support/' : '/',
+  // Repo: ralnexosupport-lgtm/support → https://ralnexosupport-lgtm.github.io/support/
+  base: command === 'build' ? '/support/' : '/',
   plugins: [react()],
   server: {
     proxy: {
