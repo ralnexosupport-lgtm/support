@@ -1,21 +1,21 @@
-/** Copy aligned with Ralnexo Privacy Policy (May 19, 2026). */
+/** Copy aligned with Ralnexo Privacy Policy (September 24, 2026). */
 export const PRIVACY_POLICY_URL =
-  'https://docs.google.com/document/d/1dzLmWWVB_QP7uY9yznSUI9-ZZKZA1jjs3t8RI9mGW_4/edit?tab=t.0';
+  'https://docs.google.com/document/d/e/2PACX-1vQW3UzsDO_GMhnemgW1HhF7zuMOScbjiuo0G5McHrcP1P-H6MSOfWCsP4rYCcurENGaJmKNUeu-2Btr/pub';
 
-export const SUPPORT_SITE_URL = 'https://ralnexo-a11y.github.io/ralnexo-support/';
+export const SUPPORT_SITE_URL = 'https://ralnexosupport-lgtm.github.io/support/';
 
 export const COMPANY_NAME = 'Ralnexo';
 
-export const PRIVACY_LAST_UPDATED = 'May 19, 2026';
+export const PRIVACY_LAST_UPDATED = 'September 24, 2026';
 
 export const supportPageCopy = {
   badge: 'Ralnexo · Support',
   title: 'Support for the Ralnexo mobile application',
   lead:
-    'Ralnexo is a brain-training application built around fast math blitz rounds. Use this page to contact Us about the Service — including gameplay, your Account, purchases, or technical issues.',
+    'Ralnexo is a Learn Hub for trading education. Study topic guides in the app, take short tests to earn points, and unlock avatars as you progress. Use this page to contact Us about the Service — including learning content, tests, your Account, or technical issues.',
   features: [
-    'Math blitz and speed challenge modes',
-    'Account and progress support',
+    'Topic guides and short tests',
+    'Points, progress, and avatar unlocks',
     'We respond to requests by email',
   ],
   formTitle: 'Contact us',
